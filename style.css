@@ -1,0 +1,39 @@
+
+.fa-cart-shopping
+{
+    color: #fff;
+    margin-right: 35px;
+    font-size: 22px;
+}
+.card{
+    height: 480px;
+    width: 381px;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+.mainCard{
+display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+}
+.card img{
+    height: 300px;
+}
+.card p{
+    text-align: center;
+    margin-top: 1vh;
+}
+.card span{
+    text-align: center;
+    margin-top: 1vh;
+}
+.card b{
+    text-align: center;
+}
+
+.card button{
+    margin-top: 3vh;
+} 
